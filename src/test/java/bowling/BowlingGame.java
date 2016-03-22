@@ -1,3 +1,5 @@
+package bowling;
+
 import static org.hamcrest.core.Is.*;
 import static org.junit.Assert.*;
 

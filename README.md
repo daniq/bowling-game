@@ -11,7 +11,7 @@ Implementing score for a bowling game by TDD & Java.
 ```
 git clone git@github.com:daniq/bowling-game.git
 ```
-Петерь переходим в корень проекта
+Теперь переходим в корень проекта
 ```
 cd bowling-game
 ```
@@ -20,7 +20,7 @@ cd bowling-game
 ### Сборка проекта и работа с IDE
 
 Для работы с проектом Вам потребуется [Gradle](http://gradle.org). Установить его лучше всего, воспользовавшись
-утилитой [sdkman](http://sdkman.io). Выполняем несколько простых комманд в терминале
+утилитой [sdkman](http://sdkman.io). Выполняем несколько простых команд в терминале
 
 * ```curl -s http://get.sdkman.io | bash```
 * ```sdk i gradle <put required version here>```, e.g. ```sdk i gradle 2.11```

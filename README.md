@@ -11,7 +11,11 @@ Implementing score for a bowling game by TDD & Java.
 ```
 git clone git@github.com:daniq/bowling-game.git
 ```
-Петерь переходим в корень проекта и настраиваем среду разработки.
+Петерь переходим в корень проекта
+```
+cd bowling-game
+```
+и настраиваем среду разработки.
 
 ### Сборка проекта и работа с IDE
 
@@ -23,7 +27,7 @@ git clone git@github.com:daniq/bowling-game.git
 * ```gradle --version```, проверяем, что gradle был установлен
 * в корне проекта выполняем ```gradle build```
 
-Если сбора прошла успешно, открываем Вашу любимую среду разработки, например IntelliJ IDEA, и выполняем
+Если сборка прошла успешно, открываем Вашу любимую среду разработки, например [IntelliJ IDEA](http://www.jetbrains.com/idea/), и выполняем
 ```
 Import Project -> <path to bowling-game> -> build.gradle
 ```
